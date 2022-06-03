@@ -6,7 +6,7 @@
 
 .background {
     background-color: #12181B;
-    height: 100vh;
+    height: 120vh;
     padding-top: 1px;
 }
 
@@ -22,6 +22,8 @@
     margin-top: 10%;
     font-size: 40px;
     text-align: center;
+    background-color: #12181B;
+
 }
 
 .display {
